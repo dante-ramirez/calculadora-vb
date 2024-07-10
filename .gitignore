@@ -1,0 +1,56 @@
+# Visual Studio
+.vs/
+.vscode/
+.vscode-test/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.ide
+*.tlog
+*.log
+*.lastbuildstate
+*.lastcodeanalysissucceeded
+*.sqlite
+*.pdb
+*.cache
+*.ilk
+*.log
+*.appxrecipe
+*.appxupload
+*.srh
+*.lock.json
+*.manifest
+*.projdata
+*.shfb
+*.builds
+*.buildlog
+*.sbr
+*.vspscc
+
+# Files built by runtime
+*.dll
+*.exe
+*.db
+*.sqlite
+
+# Backup & report files
+_backup/
+*.bak
+*.log
+*.dmp
+*.mdmp
+*.stackdump
+
+# Static analysis files
+*.ruleid
+*.rulestatus
